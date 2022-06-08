@@ -44,4 +44,4 @@ List of all column names in census table
 ###### 1. What is the gun per capita in all states in 2010 and 2016 respectively.
 ######  2. What is the trend in the types of gun purchased over time.
 
-# [Google Collaboration Link] (https://colab.research.google.com/drive/1RfGmvkyx--XCBpo5iVzwRkUoafwH1q69?usp=sharing)
+# [Google Collaboration Link](https://colab.research.google.com/drive/1RfGmvkyx--XCBpo5iVzwRkUoafwH1q69?usp=sharing)
